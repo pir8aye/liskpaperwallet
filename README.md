@@ -1,7 +1,7 @@
 
 <img align="right" src="https://cdn.rawgit.com/feross/standard/master/badge.svg">
 
-# liskpaperwallet.com
+# lisk.pir8aye.net
 
 Unofficial paper wallet generator for Lisk cryptocurrency.
 

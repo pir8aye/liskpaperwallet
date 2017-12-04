@@ -2,11 +2,11 @@
   "name": "liskpaperwallet",
   "version": "1.3.0",
   "description": "Unofficial paper wallet generator for Lisk cryptocurrency.",
-  "homepage": "https://github.com/rferro/liskpaperwallet",
-  "bugs": "https://github.com/rferro/liskpaperwallet/issues",
+  "homepage": "https://github.com/pir8aye/liskpaperwallet",
+  "bugs": "https://github.com/pir8aye/liskpaperwallet/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rferro/liskpaperwallet"
+    "url": "https://github.com/pir8aye/liskpaperwallet"
   },
   "dependencies": {
     "babel-cli": "^6.6.5",

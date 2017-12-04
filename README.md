@@ -1,7 +1,7 @@
 
 <img align="right" src="https://cdn.rawgit.com/feross/standard/master/badge.svg">
 
-# lisk.pir8aye.net
+# <a href="http://lisk.pir8aye.net">lisk.pir8aye.net</a>
 
 Unofficial paper wallet generator for Lisk cryptocurrency.
 
@@ -10,6 +10,7 @@ Unofficial paper wallet generator for Lisk cryptocurrency.
 ```
 (The MIT License)
 
+Copyright (c) 2017 Pir8aye Network
 Copyright (c) 2016 Ricardo Ferro <ricardo.ferro@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
